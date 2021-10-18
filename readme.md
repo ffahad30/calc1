@@ -1,3 +1,3 @@
-My Calculator Program
+# My Calculator Program
 
-https://app.travis-ci.com/ffahad30/calc1.svg?branch=main
+[![Build Status](https://app.travis-ci.com/ffahad30/calc1.svg?branch=main)](https://app.travis-ci.com/ffahad30/calc1)
